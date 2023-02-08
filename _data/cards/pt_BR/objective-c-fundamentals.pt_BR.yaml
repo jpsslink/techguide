@@ -1,0 +1,56 @@
+name: Objective-C - Fundamentos
+logo: 
+short-description:
+key-objectives:
+  - Objective-C foi por muito tempo a linguagem de programação utilizada para escrever software para OS X e iOS. É um superset da linguagem de programação C e provê recursos de orientação a objetos e tempo de execução dinâmicos. Objective-C herda a sintaxe, tipos primitivos e declarações de comandos de fluxo da linguagem C e adiciona sintaxe para definição de classes e métodos. Ela também adiciona suporte a nível de linguagem para gerenciamento de gráficos de objetos e objetos literais enquanto fornece tipagem e vinculo dinâmicos, adiando muitas responsabilidades até o momento da execução.
+aditional-objectives:
+contents:
+  - type: SITE
+    title: "Definindo classes (inglês)"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#//apple_ref/doc/uid/TP40011210-CH3-SW1
+  - type: SITE
+    title: "Trabalhando com objetos (inglês)"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithObjects/WorkingwithObjects.html#//apple_ref/doc/uid/TP40011210-CH4-SW1
+  - type: SITE
+    title: "Encapsulando dados (inglês)"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/EncapsulatingData/EncapsulatingData.html#//apple_ref/doc/uid/TP40011210-CH5-SW1
+  - type: SITE
+    title: "Customizando classes existentes (inglês)"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/CustomizingExistingClasses/CustomizingExistingClasses.html#//apple_ref/doc/uid/TP40011210-CH6-SW1
+  - type: SITE
+    title: "Trabalhando com protocolos (inglês)"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithProtocols/WorkingwithProtocols.html#//apple_ref/doc/uid/TP40011210-CH11-SW1
+  - type: SITE
+    title: "Valores e coleções (inglês)"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/FoundationTypesandCollections/FoundationTypesandCollections.html#//apple_ref/doc/uid/TP40011210-CH7-SW1
+  - type: SITE
+    title: "Trabalhando com blocos (inglês)"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html#//apple_ref/doc/uid/TP40011210-CH8-SW1
+  - type: SITE
+    title: "Lidando com erros (inglês)"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ErrorHandling/ErrorHandling.html#//apple_ref/doc/uid/TP40011210-CH9-SW1
+  - type: SITE
+    title: "Convenções (inglês)"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html#//apple_ref/doc/uid/TP40011210-CH10-SW1
+  - type: ARTICLE
+    title: "Kotlin - Variáveis e Nullable"
+    link: https://medium.com/luizalabs/kotlin-vari%C3%A1veis-e-nullable-8dd977bc376d
+  - type: YOUTUBE
+    title: "Kotlin // Dicionário do Programador"
+    link: https://youtu.be/BfjRYBN7Ur8
+  - type: YOUTUBE
+    title: "Curso de Kotlin (inglês)"
+    link: https://youtu.be/F9UC9DY-vIU
+alura-contents:
+  - type: YOUTUBE
+    title: "Desenvolvimento de apps mobile com Kotlin | Hipsters.Talks"
+    link: https://www.youtube.com/watch?v=TKYDpbO5KcI&ab_channel=AluraCursosOnline
+  - type: PODCAST
+    title: "Case Contabilizei: Kotlin - Hipsters Ponto Tech #310"
+    link: https://www.hipsters.tech/case-contabilizei-kotlin-hipsters-ponto-tech-310/
+  - type: COURSE
+    title: "Formação Kotlin"
+    link: https://cursos.alura.com.br/formacao-kotlin
+  - type: CHALLENGE
+    title: "7 Days of Code: Kotlin"
+    link: https://7daysofcode.io/matricula/kotlin
