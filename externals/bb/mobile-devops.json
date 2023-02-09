@@ -1,0 +1,96 @@
+{
+  "name": "Mobile DevOps",
+  "expertise": [
+    {
+      "name": "Nivel 1 - Básico",
+      "cards": [
+        {
+          "name": "Fundamentos do Sistema Operacional Linux",
+          "short-description": "Descrição do Cartão",
+          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "contents": [
+            {
+              "type": "ALURA", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "title": "Linux I: conhecendo e utilizando o terminal",
+              "link": "https://unibb.alura.com.br/course/linux-ubuntu"
+            },
+            {
+              "type": "ALURA", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "title": "Linux II: programas, processos e pacotes",
+              "link": "https://unibb.alura.com.br/course/linux-ubuntu-processos"
+            },
+            {
+              "type": "ALURA", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "title": "Shell Scripting parte 1",
+              "link": "https://unibb.alura.com.br/course/shellscripting"
+            },            {
+              "type": "ALURA", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "title": "Shell Scripting parte 2",
+              "link": "https://unibb.alura.com.br/course/shellscripting-parte-2"
+            }
+          ]
+        },
+        {
+          "name": "Introdução a containers com Docker",
+          "short-description": "Descrição do Cartão",
+          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "contents": [
+            {
+              "type": "ALURA", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "title": "Docker: Criando containers sem dor de cabeça",
+              "link": "https://unibb.alura.com.br/course/docker-e-docker-compose"
+            }
+          ]
+        },
+        // Usando o ID, conseguimos pegar nossos próprios cartões
+        // Aqui você pode ver uma lista com todos os disponíveis: https://github.com/alura/techguide/tree/main/_data/blocks/pt_BR
+        {
+          "id": "git-and-github-fundamentals"
+        },
+        {
+          "name": "Fundamentos de DevOps",
+          "short-description": "Descrição do Cartão",
+          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
+          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "contents": [
+            {
+              "type": "ALURA", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "title": "Integração Contínua: mais qualidade e menos risco no desenvolvimento",
+              "link": "https://unibb.alura.com.br/course/desenvolvimento-software-integracao-continua"
+            },
+            {
+              "type": "ALURA", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "title": "Entrega Contínua: confiabilidade e qualidade na implantação de software",
+              "link": "https://unibb.alura.com.br/course/entrega-continua-confiabilidade-qualidade"
+            },
+            {
+              "type": "ALURA", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "title": "The Twelve-Factor App: Metodologia para construção de aplicações robustas",
+              "link": "https://unibb.alura.com.br/course/the-twelve-factor-app"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nivel 2 - Intermediário",
+      "cards": [] // Use os cards do "name": "Nivel 1 - Básico", como referência
+    },
+    {
+      "name": "Nivel 3 - Avançado",
+      "cards": [] // Use os cards do "name": "Nivel 1 - Básico", como referência
+    }
+  ],
+  "collaboration": [
+    {
+      "name": "Release e Distribuição de apps mobile",
+      "cards": [] // Use os cards do "name": "Nivel 1 - Básico", como referência
+    },
+    {
+      "name": "Platform Engineering",
+      "cards": [] // Use os cards do "name": "Nivel 1 - Básico", como referência
+    }
+  ]
+}
