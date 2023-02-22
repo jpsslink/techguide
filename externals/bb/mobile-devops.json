@@ -141,12 +141,12 @@
               "link": "https://unibb.alura.com.br/course/terraform"
             }
           ]
-        },
-      ] // Use os cards do "name": "Nivel 1 - Básico", como referência
+        }
+      ]
     },
     {
       "name": "Nivel 3 - Avançado",
-      "cards": [] // Use os cards do "name": "Nivel 1 - Básico", como referência
+      "cards": []
     }
   ],
   "collaboration": [
@@ -247,7 +247,7 @@
             }
           ]
         }
-      ] // Use os cards do "name": "Nivel 1 - Básico", como referência
+      ]
     },
     {
       "name": "Platform Engineering",
@@ -264,12 +264,12 @@
               "link": "https://teamtopologies.com/book"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTIC/LE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE", 
               "title": "What is Platform Engineering",
               "link": "https://platformengineering.org/blog/what-is-platform-engineering"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTIC/LE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE", 
               "title": "Platform Engineering: What Is It and Who Does It?",
               "link": "https://thenewstack.io/platform-engineering-what-is-it-and-who-does-it/"
             },
@@ -302,7 +302,7 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTIC/LE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE", 
               "title": "Five reasons why an Internal Developer Platform is worth it",
               "link": "https://platformengineering.org/blog/five-reasons-why-an-internal-developer-platform-is-worth-it"
             },
