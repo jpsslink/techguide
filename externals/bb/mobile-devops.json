@@ -11,21 +11,21 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Linux I: conhecendo e utilizando o terminal",
               "link": "https://unibb.alura.com.br/course/linux-ubuntu"
             },
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Linux II: programas, processos e pacotes",
               "link": "https://unibb.alura.com.br/course/linux-ubuntu-processos"
             },
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Shell Scripting parte 1",
               "link": "https://unibb.alura.com.br/course/shellscripting"
             },            {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Shell Scripting parte 2",
               "link": "https://unibb.alura.com.br/course/shellscripting-parte-2"
             }
@@ -38,14 +38,12 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Docker: Criando containers sem dor de cabeça",
               "link": "https://unibb.alura.com.br/course/docker-e-docker-compose"
             }
           ]
         },
-        // Usando o ID, conseguimos pegar nossos próprios cartões
-        // Aqui você pode ver uma lista com todos os disponíveis: https://github.com/alura/techguide/tree/main/_data/blocks/pt_BR
         {
           "id": "git-and-github-fundamentals"
         },
@@ -56,17 +54,17 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Integração Contínua: mais qualidade e menos risco no desenvolvimento",
               "link": "https://unibb.alura.com.br/course/desenvolvimento-software-integracao-continua"
             },
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Entrega Contínua: confiabilidade e qualidade na implantação de software",
               "link": "https://unibb.alura.com.br/course/entrega-continua-confiabilidade-qualidade"
             },
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "The Twelve-Factor App: Metodologia para construção de aplicações robustas",
               "link": "https://unibb.alura.com.br/course/the-twelve-factor-app"
             }
@@ -79,12 +77,12 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Jenkins e Docker: Pipeline de entrega contínua",
               "link": "https://unibb.alura.com.br/course/pipeline-ci-jenkins-docker"
             },
             {
-              "type": "Site", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "Site",
               "title": "Documentação do Gitlab CI",
               "link": "https://docs.gitlab.com/ee/ci/"
             }
@@ -97,7 +95,7 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Python e orientação a objetos",
               "link": "https://unibb.alura.com.br/formacao-Python-linguagem"
             }
@@ -115,12 +113,12 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Ansible: sua infraestrutura como código",
               "link": "https://unibb.alura.com.br/course/infraestrutura-como-codigo-com-ansible"
             },
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Terraform: automatize a infraestrutura na nuvem",
               "link": "https://unibb.alura.com.br/course/terraform"
             }
@@ -133,12 +131,12 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "SITE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "SITE",
               "title": "Documentação do ArgoCD",
               "link": "https://argo-cd.readthedocs.io/en/stable/"
             },
             {
-              "type": "ALURAPLUS", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ALURAPLUS",
               "title": "Terraform: automatize a infraestrutura na nuvem",
               "link": "https://unibb.alura.com.br/course/terraform"
             }
@@ -162,32 +160,32 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Portal Android Developers: Configurar seu build",
               "link": "https://developer.android.com/studio/build?hl=pt-br"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Portal Android Developers: Otimizar a velocidade do seu build",
               "link": "https://developer.android.com/studio/build/optimize-your-build?hl=pt-br"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Portal Android Developers: Crie seu app na linha de comando",
               "link": "https://developer.android.com/studio/build/building-cmdline?hl=pt-br"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Portal Android Developers: Publicar o app",
               "link": "https://developer.android.com/studio/publish?hl=pt-br"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Ajuda do Play Console: Preparar e lançar uma versão",
               "link": "https://support.google.com/googleplay/android-developer/answer/9859348?hl=pt-BR&ref_topic=7072031"
             },
             {
-              "type": "SITE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "SITE",
               "title": "Documentação do Gradle",
               "link": "https://docs.gradle.org/current/userguide/userguide.html"
             }
@@ -200,27 +198,27 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "SITE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "SITE",
               "title": "Documentação do Xcode",
               "link": "https://developer.apple.com/documentation/xcode"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Building from the Command Line with Xcode FAQ",
               "link": "https://developer.apple.com/library/archive/technotes/tn2339/_index.html"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "About continuous integration and delivery with Xcode Cloud",
               "link": "https://developer.apple.com/documentation/xcode/about-continuous-integration-and-delivery-with-xcode-cloud"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Build iOS apps from the command line using xcodebuild",
               "link": "https://tarikdahic.com/posts/build-ios-apps-from-the-command-line-using-xcodebuild/"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Portal iMasters: Entendendo Certificados e Provisioning Profiles do iOS",
               "link": "https://imasters.com.br/desenvolvimento/entendendo-certificados-e-provisioning-profiles-do-ios/"
             }
@@ -233,17 +231,17 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "SITE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "SITE",
               "title": "Documentação do Fastlane",
               "link": "https://docs.fastlane.tools/"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Mobile DevOps with GitLab, Part 3 - Code signing for iOS with GitLab CI and Fastlane",
               "link": "https://about.gitlab.com/blog/2022/10/03/mobile-devops-with-gitlab-part-3-code-signing-for-ios-with-gitlab-and-fastlane/"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Automating mobile application deployments using Fastlane and CI/CD tools",
               "link": "https://dev.to/jei/automating-mobile-application-deployments-using-fastlane-and-ci-cd-tools-2iae"
             }
@@ -261,7 +259,7 @@
           "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
           "contents": [
             {
-              "type": "BOOK", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "BOOK",
               "title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
               "link": "https://teamtopologies.com/book"
             },
@@ -276,22 +274,22 @@
               "link": "https://thenewstack.io/platform-engineering-what-is-it-and-who-does-it/"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Whose cognitive load is it anyway?",
               "link": "https://platformengineering.org/blog/cognitive-load"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "SRE vs. DevOps vs. Platform Engineering",
               "link": "https://thenewstack.io/sre-vs-devops-vs-platform-engineering/"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Why platform teams need to ship workflows",
               "link": "https://platformengineering.org/blog/why-platform-teams-need-to-ship-workflows"
             },
             {
-              "type": "YOUTUBE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "YOUTUBE",
               "title": "Platform Enginnering: Platform Stories Playlist - PlatforCon 2022",
               "link": "https://www.youtube.com/playlist?list=PLR74Ng-6aEfBo6t2JeWR2ZXDehY5tTlad"
             }
@@ -309,39 +307,39 @@
               "link": "https://platformengineering.org/blog/five-reasons-why-an-internal-developer-platform-is-worth-it"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Hitting the right level of abstractions when building an Internal Developer Platform",
               "link": "https://platformengineering.org/blog/right-level-of-abstraction-internal-developer-platform"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "What to build first: the house or the front door?",
               "link": "https://platformengineering.org/blog/what-to-build-first-the-house-or-the-front-door"
             },
             {
-              "type": "ARTICLE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "ARTICLE",
               "title": "Why platform teams need to ship workflows",
               "link": "https://platformengineering.org/blog/why-platform-teams-need-to-ship-workflows"
             },
             {
-              "type": "YOUTUBE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "YOUTUBE",
               "title": "Platform Enginnering: Platform Design Playlist - PlatformCon 2022",
               "link": "https://www.youtube.com/playlist?list=PLR74Ng-6aEfBDx2L-IPSR3qU5ujnA62gC"
             },
             {
-              "type": "YOUTUBE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "YOUTUBE",
               "title": "Platform Enginnering: Platform Tech Playlist - PlatformCon 2022",
               "link": "https://www.youtube.com/playlist?list=PLR74Ng-6aEfBUUv3Qixa0UziI630YsCCM"
             },
             {
-              "type": "YOUTUBE", // 'ALURAPLUS', 'ARTICLE', 'CHALLENGE', 'COURSE', 'PODCAST', 'SITE', 'YOUTUBE'
+              "type": "YOUTUBE",
               "title": "Platform Enginnering: Platform Culture Playlist - PlatformCon 2022",
               "link": "https://www.youtube.com/playlist?list=PLR74Ng-6aEfCIiL2OjNA_JtiuUTbSUsO0"
             }
 
           ]
         }
-      ] // Use os cards do "name": "Nivel 1 - Básico", como referência
+      ]
     }
   ]
 }
