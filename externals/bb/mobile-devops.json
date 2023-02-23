@@ -1,46 +1,39 @@
 {
   "name": "Mobile DevOps",
-  "expertise": [
+  "expertises": [
     {
       "name": "Nivel 1 - Básico",
       "cards": [
         {
-          "name": "Fundamentos do Sistema Operacional Linux",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "name": "Fundamentos de DevOps",
+          "short-description": "",
+          "key-objectives": [
+            "DevOps é a combinação de filosofias culturais, práticas e ferramentas que aumentam a capacidade de uma empresa de distribuir aplicativos e serviços em alta velocidade.",
+            "Compreender a importância da adocão do DevOps e seus reflexos na entrega de software",
+            "Compreender o que significa Integração e Entrega Contínua",
+            "Compreender a metodologia para criação de software 12 fatores"
+          ],
+          "additional-objectives": [],
           "contents": [
             {
-              "type": "ALURAPLUS",
-              "title": "Linux I: conhecendo e utilizando o terminal",
-              "link": "https://unibb.alura.com.br/course/linux-ubuntu"
+              "type": "ARTICLE",
+              "title": "O que é o DevOps",
+              "link": "https://aws.amazon.com/pt/devops/what-is-devops/"
             },
             {
               "type": "ALURAPLUS",
-              "title": "Linux II: programas, processos e pacotes",
-              "link": "https://unibb.alura.com.br/course/linux-ubuntu-processos"
+              "title": "Integracao Contínua: mais qualidade e menos risco no desenvolvimento",
+              "link": "https://unibb.alura.com.br/course/desenvolvimento-software-integracao-continua"
             },
             {
               "type": "ALURAPLUS",
-              "title": "Shell Scripting parte 1",
-              "link": "https://unibb.alura.com.br/course/shellscripting"
-            },            {
-              "type": "ALURAPLUS",
-              "title": "Shell Scripting parte 2",
-              "link": "https://unibb.alura.com.br/course/shellscripting-parte-2"
-            }
-          ]
-        },
-        {
-          "name": "Introdução a containers com Docker",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-          "contents": [
+              "title": "Entrega Contínua: confiabilidade e qualidade na implantacao de software",
+              "link": "https://unibb.alura.com.br/course/entrega-continua-confiabilidade-qualidade"
+            },
             {
               "type": "ALURAPLUS",
-              "title": "Docker: Criando containers sem dor de cabeça",
-              "link": "https://unibb.alura.com.br/course/docker-e-docker-compose"
+              "title": "The Twelve-Factor App: Metodologia para construcao de aplicacões robustas",
+              "link": "https://unibb.alura.com.br/course/the-twelve-factor-app"
             }
           ]
         },
@@ -48,33 +41,17 @@
           "id": "git-and-github-fundamentals"
         },
         {
-          "name": "Fundamentos de DevOps",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-          "contents": [
-            {
-              "type": "ALURAPLUS",
-              "title": "Integração Contínua: mais qualidade e menos risco no desenvolvimento",
-              "link": "https://unibb.alura.com.br/course/desenvolvimento-software-integracao-continua"
-            },
-            {
-              "type": "ALURAPLUS",
-              "title": "Entrega Contínua: confiabilidade e qualidade na implantação de software",
-              "link": "https://unibb.alura.com.br/course/entrega-continua-confiabilidade-qualidade"
-            },
-            {
-              "type": "ALURAPLUS",
-              "title": "The Twelve-Factor App: Metodologia para construção de aplicações robustas",
-              "link": "https://unibb.alura.com.br/course/the-twelve-factor-app"
-            }
-          ]
+          "id": "linux-fundamentals"
         },
         {
           "name": "Ferramentas de CI/CD",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "short-description": "",
+          "key-objectives": [
+            "As ferramentas de CI/CD são ambientes de automação que permitem que os processos de build, testes, publicação e release ocorram de maneira automática, sem intervenção humana.",
+            "Compreender os recursos de ferramentas como Jenkins e Gitlab CI",
+            "Criar e executar pipelines de CI/CD no Jenkins e Gitlab CI"
+          ],
+          "additional-objectives": [],
           "contents": [
             {
               "type": "ALURAPLUS",
@@ -82,24 +59,14 @@
               "link": "https://unibb.alura.com.br/course/pipeline-ci-jenkins-docker"
             },
             {
-              "type": "Site",
+              "type": "SITE",
               "title": "Documentação do Gitlab CI",
               "link": "https://docs.gitlab.com/ee/ci/"
             }
           ]
         },
         {
-          "name": "Programação",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
-          "contents": [
-            {
-              "type": "ALURAPLUS",
-              "title": "Python e orientação a objetos",
-              "link": "https://unibb.alura.com.br/formacao-Python-linguagem"
-            }
-          ]
+          "id": "python-fundamentals"
         }
       ]
     },
@@ -107,10 +74,66 @@
       "name": "Nivel 2 - Intermediário",
       "cards": [
         {
+          "name": "Ferramentas de build (npm, maven, pip, etc)",
+          "short-description": "",
+          "key-objectives": [
+            "As ferramentas de build são o principal mecanismo pelos quais o build das aplicações são realizados",
+            "Conhecer o funcionamento dessas ferramentas é crucial para o atendimento das necessidades dos desenvolvedores",
+            "Compreender e utilizar o Maven para o build de aplicações java",
+            "Compreender e utilizar o Gradle para o build de aplicações android",
+            "Compreender e utilizar o npm e yarn para o build de aplicações javascript"
+          ],
+          "additional-objectives": [],
+          "contents": [
+            {
+              "type": "ALURAPLUS",
+              "title": "Maven: gerenciamento de dependências e build de aplicações Java",
+              "link": "https://unibb.alura.com.br/course/maven-gerenciamento-dependencias-build-aplicacoes-java"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "Maven Getting Started Guide",
+              "link": "https://maven.apache.org/guides/getting-started/"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Apache Maven para programadores Java iniciantes",
+              "link": "https://www.youtube.com/watch?v=ZQICkNszEuI"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "Gradle for Android and Java | Udacity",
+              "link": "https://www.youtube.com/playlist?list=PLAwxTw4SYaPk2JP5TFPx7g63PCkyBqjZn"
+            },
+            {
+              "type": "SITE",
+              "title": "Documentação do Gradle",
+              "link": "https://docs.gradle.org/current/userguide/userguide.html"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "The Complete Guide To Npm",
+              "link": "https://medium.com/analytics-vidhya/the-complete-guide-to-npm-ac52fbc43f6c"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "NPM vs Yarn",
+              "link": "https://www.alura.com.br/artigos/npm-vs-yarn"
+            }
+          ]
+        },
+        {
+          "id": "containers"
+        },
+        {
           "name": "Infraestrutura como Código",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "short-description": "",
+          "key-objectives": [
+            "À medida em que a jornada de DevOps evolui, surge a necessidade de desenvolvimento e manutenção de ambientes de build cada vez mais complexos, combinando soluções on-premisse e em cloud",
+            "Além disso, o processo de CD pode exigir a criação e configuração de novos ambientes como estratégias de deployment",
+            "Utilizar ferramentas de IaaS (Infrastructure as Code) para criação e configuração de infraestrutura"
+          ],
+          "additional-objectives": [],
           "contents": [
             {
               "type": "ALURAPLUS",
@@ -126,19 +149,22 @@
         },
         {
           "name": "GitOps",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "short-description": "",
+          "key-objectives": [
+            "Compreender o valor se ter o git como 'única fonte de verdade'",
+            "Compreender a aplicação deste conceito no deployment de aplicações e infraestrutura"
+          ],
+          "additional-objectives": [],
           "contents": [
+            {
+              "type": "ARTICLE",
+              "title": "GitOps: O Futuro da automação de infraestrutura",
+              "link": "https://medium.com/natura-infra-e-devops/gitops-operacao-via-git-push-pull-f1e368d979d2"
+            },
             {
               "type": "SITE",
               "title": "Documentação do ArgoCD",
               "link": "https://argo-cd.readthedocs.io/en/stable/"
-            },
-            {
-              "type": "ALURAPLUS",
-              "title": "Terraform: automatize a infraestrutura na nuvem",
-              "link": "https://unibb.alura.com.br/course/terraform"
             }
           ]
         }
@@ -146,18 +172,12 @@
     },
     {
       "name": "Nivel 3 - Avançado",
-      "cards": []
-    }
-  ],
-  "collaboration": [
-    {
-      "name": "Release e Distribuição de apps mobile",
       "cards": [
         {
           "name": "Build e Distribuição de apps Android",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "short-description": "",
+          "key-objectives": ["Compreender e implementar o processo de integração e entrega contínua em aplicações Android"],
+          "additional-objectives": [""],
           "contents": [
             {
               "type": "ARTICLE",
@@ -183,19 +203,14 @@
               "type": "ARTICLE",
               "title": "Ajuda do Play Console: Preparar e lançar uma versão",
               "link": "https://support.google.com/googleplay/android-developer/answer/9859348?hl=pt-BR&ref_topic=7072031"
-            },
-            {
-              "type": "SITE",
-              "title": "Documentação do Gradle",
-              "link": "https://docs.gradle.org/current/userguide/userguide.html"
             }
           ]
         },
         {
           "name": "Build e Distribuição de apps iOS",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "short-description": "",
+          "key-objectives": ["Compreender e implementar o processo de integração e entrega contínua em aplicações iOS"],
+          "additional-objectives": [""],
           "contents": [
             {
               "type": "SITE",
@@ -226,9 +241,9 @@
         },
         {
           "name": "Mobile DevOps com Fastlane",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "short-description": "",
+          "key-objectives": ["Acelerar processo de DevOps Mobile através de soluções existentes no mercado como o Fastlane"],
+          "additional-objectives": [""],
           "contents": [
             {
               "type": "SITE",
@@ -246,6 +261,55 @@
               "link": "https://dev.to/jei/automating-mobile-application-deployments-using-fastlane-and-ci-cd-tools-2iae"
             }
           ]
+        },
+        {
+          "name": "4-key Metrics Devops",
+          "short-description": "",
+          "key-objectives": ["Identificar e implementar a coleta e análise das 4 métricas chave em DevOps"],
+          "additional-objectives": [],
+          "contents": [
+            {
+              "type": "ARTICLE",
+              "title": "Are you an Elite DevOps performer? Find out with the Four Keys Project",
+              "link": "https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance"
+            },
+            {
+              "type": "YOUTUBE",
+              "title": "4 Key Metrics for Digital Efficiency",
+              "link": "https://www.youtube.com/playlist?list=PLL4IWbwYi3FnnAK6LCsIR0_qdjs2XDjYl"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "4 Key Metrics: Quatro Métricas-Chave em eficiência digital",
+              "link": "https://ciandt.com/br/pt-br/article/4-key-metrics-quatro-metricas-chave-em-eficiencia-digital"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "DevOps metrics",
+              "link": "https://www.atlassian.com/devops/frameworks/devops-metrics"
+            },
+            {
+              "type": "ARTICLE",
+              "title": "Experiences from Measuring the DevOps Four Key Metrics: Identifying Areas for Improvement ",
+              "link": "https://www.infoq.com/news/2021/08/measuring-four-key-metrics/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "collaborations": [
+    {
+      "name": "Computação em Nuvem e arquitetura de microsserviços",
+      "cards": [
+        {
+          "id": "cloud-fundamentals"
+        },
+        {
+          "id": "cloud-security"
+        },
+        {
+          "id": "microservices"
         }
       ]
     },
@@ -254,12 +318,14 @@
       "cards": [
         {
           "name": "Fundamentals of Platform Engineering",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "short-description": "",
+          "key-objectives": [
+            "Compreender o conceito e a importância da adoção de uma Plataforma de Engenharia em organizações"
+          ],
+          "additional-objectives": [],
           "contents": [
             {
-              "type": "BOOK",
+              "type": "SITE",
               "title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
               "link": "https://teamtopologies.com/book"
             },
@@ -297,9 +363,11 @@
         },
         {
           "name": "Buildind an Internal Developer Platform",
-          "short-description": "Descrição do Cartão",
-          "key-objectives": ["Objetivo 1", "Objetivo 2", "Objetivo 3"],
-          "additional-objectives": ["Extra Objetivo 1", "Extra  Objetivo 2"],
+          "short-description": "",
+          "key-objectives": [
+            "Compreender as vantagem e os desafios no desenvolvimento de uma Plataforma de Desenvolvimento Interna"
+          ],
+          "additional-objectives": [],
           "contents": [
             {
               "type": "ARTICLE", 
@@ -335,8 +403,23 @@
               "type": "YOUTUBE",
               "title": "Platform Enginnering: Platform Culture Playlist - PlatformCon 2022",
               "link": "https://www.youtube.com/playlist?list=PLR74Ng-6aEfCIiL2OjNA_JtiuUTbSUsO0"
+            }  
+          ]
+        },
+        {
+          "name": "Plataforma OaaS - Operation as a Service",
+          "short-description": "",
+          "key-objectives": [
+            "A plataforma OaaS (portal.nuvem.bb.com.br) é hoje a principal plataforma para fornecimento de serviços de infraestrutura disponível do BB",
+            "Compreender e disponibilizar serviços de automação através do portal.nuvem.bb.com.br"
+          ],
+          "additional-objectives": [],
+          "contents": [
+            {
+              "type": "ARTICLE", 
+              "title": "Construção de ofertas de serviços no portal.nuvem.bb.com.br",
+              "link": "https://fontes.intranet.bb.com.br/sgh/publico/atendimento/-/wikis/construcao-ofertas/home"
             }
-
           ]
         }
       ]
