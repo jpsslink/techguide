@@ -9,10 +9,30 @@
           "logo": null,
           "short-description": null,
           "key-objectives": [
-              "A linguagem Kotlin cada vez mais cresce no mercado, seja pela adoção no ambiente Android, como também, na presença em outras plataformas. Muitas pessoas e empresas cada vez mais estão interessadas em desenvolver produtos em Kotlin, ou seja, é muito importante conhecer os fundamentos e técnicas específicas que a linguagem provê"
+              "O iOS SDK (Software Development Kit) permite o desenvolvimento de aplicativos móveis no iOS. Desenvolvimento iOS não é apenas para programadores ou codificadores com anos de experiência, na verdade, os dados mostram que há um número significativo de criativos, estudantes, escritores que estão aprendendo Desenvolvimento iOS. O ambiente de desenvolvimento da Apple é um ecossistema em constante crescimento, com milhares de desenvolvedores em todo o mundo reunidos na conferência anual de desenvolvedores da Apple chamada WWDC."
           ],
           "aditional-objectives": null,
           "contents": [
+              {
+                  "type": "ARTICLE",
+                  "title": "How to become an iOS Developer",
+                  "link": "https://medium.com/bumble-tech/how-to-become-an-ios-developer-91aaa4719a91"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "How to become a professional iOS developer",
+                  "link": "https://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/"
+              }, 
+              {
+                "type": "ARTICLE",
+                "title": "So You Want To Make iPhone Apps? 10 Projects For Beginners",
+                "link": "https://www.makeuseof.com/tag/want-make-iphone-apps-6-projects-beginners/"
+              }, 
+              {
+                "type": "SITE",
+                "title": "How to become a professional iOS developer",
+                "link": "https://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/"
+            },                    
               {
                   "type": "COURSE",
                   "title": "Introduction to Xcode(Free)",
@@ -68,263 +88,339 @@
           ]
         },
         {
-          "id": "git-and-github-fundamentals"
-        },
-        {
-          "id": "linux-fundamentals"
-        },
-        {
-          "name": "Ferramentas de CI/CD",
-          "short-description": "",
+          "name": "Objective-C - Fundamentos",
+          "logo": null,
+          "short-description": null,
           "key-objectives": [
-            "As ferramentas de CI/CD são ambientes de automação que permitem que os processos de build, testes, publicação e release ocorram de maneira automática, sem intervenção humana.",
-            "Compreender os recursos de ferramentas como Jenkins e Gitlab CI",
-            "Criar e executar pipelines de CI/CD no Jenkins e Gitlab CI"
+              "Objective-C foi por muito tempo a linguagem de programação utilizada para escrever software para OS X e iOS. É um superset da linguagem de programação C e provê recursos de orientação a objetos e tempo de execução dinâmicos. Objective-C herda a sintaxe, tipos primitivos e declarações de comandos de fluxo da linguagem C e adiciona sintaxe para definição de classes e métodos. Ela também adiciona suporte a nível de linguagem para gerenciamento de gráficos de objetos e objetos literais enquanto fornece tipagem e vinculo dinâmicos, adiando muitas responsabilidades até o momento da execução."
           ],
-          "additional-objectives": [],
+          "aditional-objectives": null,
           "contents": [
-            {
-              "type": "ALURAPLUS",
-              "title": "Jenkins e Docker: Pipeline de entrega contínua",
-              "link": "https://unibb.alura.com.br/course/pipeline-ci-jenkins-docker"
-            },
-            {
-              "type": "SITE",
-              "title": "Documentação do Gitlab CI",
-              "link": "https://docs.gitlab.com/ee/ci/"
-            }
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Definindo classes (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#//apple_ref/doc/uid/TP40011210-CH3-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Trabalhando com objetos (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithObjects/WorkingwithObjects.html#//apple_ref/doc/uid/TP40011210-CH4-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Encapsulando dados (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/EncapsulatingData/EncapsulatingData.html#//apple_ref/doc/uid/TP40011210-CH5-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Customizando classes existentes (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/CustomizingExistingClasses/CustomizingExistingClasses.html#//apple_ref/doc/uid/TP40011210-CH6-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Trabalhando com protocolos (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithProtocols/WorkingwithProtocols.html#//apple_ref/doc/uid/TP40011210-CH11-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Valores e coleções (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/FoundationTypesandCollections/FoundationTypesandCollections.html#//apple_ref/doc/uid/TP40011210-CH7-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc]Trabalhando com blocos (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html#//apple_ref/doc/uid/TP40011210-CH8-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc]Lidando com erros (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ErrorHandling/ErrorHandling.html#//apple_ref/doc/uid/TP40011210-CH9-SW1"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Apple Doc] Convenções (inglês)",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html#//apple_ref/doc/uid/TP40011210-CH10-SW1"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "Stanford Course",
+                  "link": "https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-sd/id395631522"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Blocks] Practical Blocks",
+                  "link": "https://www.mikeash.com/pyblog/friday-qa-2009-08-14-practical-blocks.html"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Blocks] How Do I Declare A Block in Objective-C?",
+                  "link": "http://fuckingblocksyntax.com/"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Blocks] How blocks are implemented (and the consequences)?",
+                  "link": "https://www.cocoawithlove.com/2009/10/how-blocks-are-implemented-and.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[KVC - Key Value Coding] About Key-Value Coding",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueCoding/index.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[KVC - Key Value Coding] Let's Build Key-Value Coding",
+                  "link": "https://www.mikeash.com/pyblog/friday-qa-2013-02-08-lets-build-key-value-coding.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Tool free bridging] Toll Free Bridging Internals",
+                  "link": "https://www.mikeash.com/pyblog/friday-qa-2010-01-22-toll-free-bridging-internals.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[KVO - Key Value Observing] Introduction to Key-Value Observing Programming Guide",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[KVO - Key Value Observing] Key Value Observing",
+                  "link": "https://nshipster.com/key-value-observing/"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Runtime] Objective-C Runtime Programming Guide",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Runtime] Key-Value Observing Implementation Details",
+                  "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Runtime] Method Swizzling",
+                  "link": "https://nshipster.com/method-swizzling/"
+              }
           ]
         },
         {
-          "id": "python-fundamentals"
+          "name": "Swift - Fundamentos",
+          "logo": null,
+          "short-description": null,
+          "key-objectives": [
+              "Swift é uma nova linguagem de progamação para desenvolvimento de aplicativos para iOS, macOS, watchOS e tvOS. Apesar disso, muitas partes da linguagem Swift serão familiares quando consideradas experiências anteriores de desenvolvimento em C e Objective-C. Swift provê suas próprias versões de todos os tipos fundamentais de C e Objective-C, incluindo Int para inteiros, Double e Float para valores de ponto flutuante, Bool para valores boleanos e String para dados textuais. Swift também provê versões poderosas dos três principais tipos de coleções, Array, Set e Dictionary"
+          ],
+          "aditional-objectives": null,
+          "contents": [
+              {
+                  "type": "YOUTUBE",
+                  "title": "[Stanford] Stanford iOS Development - Swift",
+                  "link": "https://www.youtube.com/@stanfordiosdevelopment6432/videos"
+              },
+              {
+                  "type": "COURSE",
+                  "title": "[Stanford] CS193p - Developing Apps for iOS - Swift",
+                  "link": "https://cs193p.sites.stanford.edu/2020"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] The Basic",
+                  "link": "https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] Closures",
+                  "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] Generics",
+                  "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] Protocols",
+                  "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] Structures and Classes",
+                  "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Swift Doc] Enumerations",
+                  "link": "https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/"
+              },
+              {
+                  "type": "BOOK",
+                  "title": "The Swift Programming Language (Swift 5.7)",
+                  "link": "https://books.apple.com/br/book/the-swift-programming-language-swift-5-7/id881256329?uo=4&mt=11"
+              },
+              {
+                  "type": "BOOK",
+                  "title": "Advanced Swift",
+                  "link": "https://www.objc.io/books/advanced-swift/"
+              },
+              {
+                  "type": "BOOK",
+                  "title": "Swift Apprentice",
+                  "link": "https://www.kodeco.com/books/swift-apprentice"
+              },
+              {
+                  "type": "SITE",
+                  "title": "Swift by Sundell",
+                  "link": "https://www.swiftbysundell.com/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "Swifter",
+                  "link": "https://en.swifter.tips/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Closures] How Do I Declare a Closure in Swift?",
+                  "link": "https://fuckingclosuresyntax.com/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Initializers] Swift Tutorial: Initialization In Depth, Part 1/2",
+                  "link": "https://www.kodeco.com/1220-swift-tutorial-initialization-in-depth-part-1-2"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Initializers] Swift Tutorial: Initialization In Depth, Part 2/2",
+                  "link": "https://www.kodeco.com/1219-swift-tutorial-initialization-in-depth-part-2-2"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Generics] Swift Generics Tutorial: Getting Started",
+                  "link": "https://www.kodeco.com/3535703-swift-generics-tutorial-getting-started"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Protocols] Separation of concerns using protocols in Swift",
+                  "link": "https://www.swiftbysundell.com/articles/separation-of-concerns-using-protocols-in-swift/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Protocols] Replacing legacy code using Swift protocols",
+                  "link": "https://www.swiftbysundell.com/articles/replacing-legacy-code-using-swift-protocols/"
+              },
+              {
+                  "type": "SITE",
+                  "title": "[Protocols] Swift Optional Protocol Methods",
+                  "link": "https://useyourloaf.com/blog/swift-optional-protocol-methods/"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "[Runtime] How does iOS Swift Runtime work",
+                  "link": "https://stackoverflow.com/questions/37315295/how-does-ios-swift-runtime-work"
+              },
+              {
+                  "type": "SITE",
+                  "title": "Variáveis e Constantes em Swift",
+                  "link": "https://dev.to/reisdev/variaveis-e-constantes-em-swift-1ddm"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Propriedades em Swift",
+                  "link": "https://pt.linkedin.com/pulse/propriedades-em-swift-pedro-menezes-/"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Optional em Swift",
+                  "link": "https://dev.to/reisdev/optionals-em-swift-4lh0"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Entendendo [ weak self ] no Swift",
+                  "link": "https://medium.com/@jonatanm89/entendendo-weak-self-no-swift-2ba061326504"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Gerenciamento de memória no iOS — weak, strong e unowned",
+                  "link": "https://deciomontanhani.com.br/gerenciamento-de-memoria/"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Desmistificando a programação orientada a protocolos",
+                  "link": "https://medium.com/@maclacerda/desmistificando-a-pop-2555d8335fb5"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Você sabe o que são Property Wrappers? (Parte 1)",
+                  "link": "https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Você sabe o que são Property Wrappers? (Parte 2)",
+                  "link": "https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "Timer — Manipulando o tempo utilizando o Timer(iOS)",
+                  "link": "https://medium.com/@viniciusmangueira/utilizando-o-timer-de-forma-pr%C3%A1tica-47231aafcb80"
+              },
+              {
+                  "type": "YOUTUBE",
+                  "title": "Automatizando a detecção de vazamento de memória, evitando bugs",
+                  "link": "https://www.youtube.com/watch?v=Zxo2p1MpkI4"
+              },
+              {
+                  "type": "YOUTUBE",
+                  "title": "Como trabalhar com Closures",
+                  "link": "https://www.youtube.com/watch?v=Lkv4bYzuH_Y"
+              },
+              {
+                  "type": "YOUTUBE",
+                  "title": "Desvendando o ARC no Swift",
+                  "link": "https://www.youtube.com/watch?v=CZbOUMOxtU8"
+              },
+              {
+                  "type": "YOUTUBE",
+                  "title": "Struct ou Class, pra que serve?",
+                  "link": "https://www.youtube.com/watch?v=tKSNjg9Cb_g"
+              }
+          ],
+          "alura-contents": [
+              {
+                  "type": "ARTICLE",
+                  "title": "iOS e Swift: O que são Classes e Struct, as diferenças e quando usar",
+                  "link": "https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-us"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "iOS - Opcionais em Swift: como utilizar?",
+                  "link": "https://www.alura.com.br/artigos/ios-opcionais-swift"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "iOS e Swift: Entendendo o uso de Generics: Por que e como utilizar?",
+                  "link": "https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "iOS e Swift: Como funcionam os modificadores de acesso",
+                  "link": "https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso"
+              },
+              {
+                  "type": "ARTICLE",
+                  "title": "iOS e Swift: Conversão de dados com Codable (Encodable e Decodable)",
+                  "link": "https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable"
+              }
+          ]
         }
       ]
     },
     {
       "name": "Nivel 2 - Intermediário",
       "cards": [
-        {
-          "name": "Ferramentas de build (npm, maven, pip, etc)",
-          "short-description": "",
-          "key-objectives": [
-            "As ferramentas de build são o principal mecanismo pelos quais o build das aplicações são realizados",
-            "Conhecer o funcionamento dessas ferramentas é crucial para o atendimento das necessidades dos desenvolvedores",
-            "Compreender e utilizar o Maven para o build de aplicações java",
-            "Compreender e utilizar o Gradle para o build de aplicações android",
-            "Compreender e utilizar o npm e yarn para o build de aplicações javascript"
-          ],
-          "additional-objectives": [],
-          "contents": [
-            {
-              "type": "ALURAPLUS",
-              "title": "Maven: gerenciamento de dependências e build de aplicações Java",
-              "link": "https://unibb.alura.com.br/course/maven-gerenciamento-dependencias-build-aplicacoes-java"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Maven Getting Started Guide",
-              "link": "https://maven.apache.org/guides/getting-started/"
-            },
-            {
-              "type": "YOUTUBE",
-              "title": "Apache Maven para programadores Java iniciantes",
-              "link": "https://www.youtube.com/watch?v=ZQICkNszEuI"
-            },
-            {
-              "type": "YOUTUBE",
-              "title": "Gradle for Android and Java | Udacity",
-              "link": "https://www.youtube.com/playlist?list=PLAwxTw4SYaPk2JP5TFPx7g63PCkyBqjZn"
-            },
-            {
-              "type": "SITE",
-              "title": "Documentação do Gradle",
-              "link": "https://docs.gradle.org/current/userguide/userguide.html"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "The Complete Guide To Npm",
-              "link": "https://medium.com/analytics-vidhya/the-complete-guide-to-npm-ac52fbc43f6c"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "NPM vs Yarn",
-              "link": "https://www.alura.com.br/artigos/npm-vs-yarn"
-            }
-          ]
-        },
-        {
-          "id": "containers"
-        },
-        {
-          "name": "Infraestrutura como Código",
-          "short-description": "",
-          "key-objectives": [
-            "À medida em que a jornada de DevOps evolui, surge a necessidade de desenvolvimento e manutenção de ambientes de build cada vez mais complexos, combinando soluções on-premisse e em cloud",
-            "Além disso, o processo de CD pode exigir a criação e configuração de novos ambientes como estratégias de deployment",
-            "Utilizar ferramentas de IaaS (Infrastructure as Code) para criação e configuração de infraestrutura"
-          ],
-          "additional-objectives": [],
-          "contents": [
-            {
-              "type": "ALURAPLUS",
-              "title": "Ansible: sua infraestrutura como código",
-              "link": "https://unibb.alura.com.br/course/infraestrutura-como-codigo-com-ansible"
-            },
-            {
-              "type": "ALURAPLUS",
-              "title": "Terraform: automatize a infraestrutura na nuvem",
-              "link": "https://unibb.alura.com.br/course/terraform"
-            }
-          ]
-        },
-        {
-          "name": "GitOps",
-          "short-description": "",
-          "key-objectives": [
-            "Compreender o valor se ter o git como 'única fonte de verdade'",
-            "Compreender a aplicação deste conceito no deployment de aplicações e infraestrutura"
-          ],
-          "additional-objectives": [],
-          "contents": [
-            {
-              "type": "ARTICLE",
-              "title": "GitOps: O Futuro da automação de infraestrutura",
-              "link": "https://medium.com/natura-infra-e-devops/gitops-operacao-via-git-push-pull-f1e368d979d2"
-            },
-            {
-              "type": "SITE",
-              "title": "Documentação do ArgoCD",
-              "link": "https://argo-cd.readthedocs.io/en/stable/"
-            }
-          ]
-        }
       ]
     },
     {
       "name": "Nivel 3 - Avançado",
       "cards": [
-        {
-          "name": "Build e Distribuição de apps Android",
-          "short-description": "",
-          "key-objectives": ["Compreender e implementar o processo de integração e entrega contínua em aplicações Android"],
-          "additional-objectives": [""],
-          "contents": [
-            {
-              "type": "ARTICLE",
-              "title": "Portal Android Developers: Configurar seu build",
-              "link": "https://developer.android.com/studio/build?hl=pt-br"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Portal Android Developers: Otimizar a velocidade do seu build",
-              "link": "https://developer.android.com/studio/build/optimize-your-build?hl=pt-br"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Portal Android Developers: Crie seu app na linha de comando",
-              "link": "https://developer.android.com/studio/build/building-cmdline?hl=pt-br"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Portal Android Developers: Publicar o app",
-              "link": "https://developer.android.com/studio/publish?hl=pt-br"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Ajuda do Play Console: Preparar e lançar uma versão",
-              "link": "https://support.google.com/googleplay/android-developer/answer/9859348?hl=pt-BR&ref_topic=7072031"
-            }
-          ]
-        },
-        {
-          "name": "Build e Distribuição de apps iOS",
-          "short-description": "",
-          "key-objectives": ["Compreender e implementar o processo de integração e entrega contínua em aplicações iOS"],
-          "additional-objectives": [""],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Documentação do Xcode",
-              "link": "https://developer.apple.com/documentation/xcode"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Building from the Command Line with Xcode FAQ",
-              "link": "https://developer.apple.com/library/archive/technotes/tn2339/_index.html"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "About continuous integration and delivery with Xcode Cloud",
-              "link": "https://developer.apple.com/documentation/xcode/about-continuous-integration-and-delivery-with-xcode-cloud"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Build iOS apps from the command line using xcodebuild",
-              "link": "https://tarikdahic.com/posts/build-ios-apps-from-the-command-line-using-xcodebuild/"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Portal iMasters: Entendendo Certificados e Provisioning Profiles do iOS",
-              "link": "https://imasters.com.br/desenvolvimento/entendendo-certificados-e-provisioning-profiles-do-ios/"
-            }
-          ]
-        },
-        {
-          "name": "Mobile DevOps com Fastlane",
-          "short-description": "",
-          "key-objectives": ["Acelerar processo de DevOps Mobile através de soluções existentes no mercado como o Fastlane"],
-          "additional-objectives": [""],
-          "contents": [
-            {
-              "type": "SITE",
-              "title": "Documentação do Fastlane",
-              "link": "https://docs.fastlane.tools/"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Mobile DevOps with GitLab, Part 3 - Code signing for iOS with GitLab CI and Fastlane",
-              "link": "https://about.gitlab.com/blog/2022/10/03/mobile-devops-with-gitlab-part-3-code-signing-for-ios-with-gitlab-and-fastlane/"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Automating mobile application deployments using Fastlane and CI/CD tools",
-              "link": "https://dev.to/jei/automating-mobile-application-deployments-using-fastlane-and-ci-cd-tools-2iae"
-            }
-          ]
-        },
-        {
-          "name": "4-key Metrics Devops",
-          "short-description": "",
-          "key-objectives": ["Identificar e implementar a coleta e análise das 4 métricas chave em DevOps"],
-          "additional-objectives": [],
-          "contents": [
-            {
-              "type": "ARTICLE",
-              "title": "Are you an Elite DevOps performer? Find out with the Four Keys Project",
-              "link": "https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance"
-            },
-            {
-              "type": "YOUTUBE",
-              "title": "4 Key Metrics for Digital Efficiency",
-              "link": "https://www.youtube.com/playlist?list=PLL4IWbwYi3FnnAK6LCsIR0_qdjs2XDjYl"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "4 Key Metrics: Quatro Métricas-Chave em eficiência digital",
-              "link": "https://ciandt.com/br/pt-br/article/4-key-metrics-quatro-metricas-chave-em-eficiencia-digital"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "DevOps metrics",
-              "link": "https://www.atlassian.com/devops/frameworks/devops-metrics"
-            },
-            {
-              "type": "ARTICLE",
-              "title": "Experiences from Measuring the DevOps Four Key Metrics: Identifying Areas for Improvement ",
-              "link": "https://www.infoq.com/news/2021/08/measuring-four-key-metrics/"
-            }
-          ]
-        }
       ]
     }
   ],
