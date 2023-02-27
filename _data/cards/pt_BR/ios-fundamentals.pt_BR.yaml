@@ -3,52 +3,36 @@ logo:
 short-description:
 key-objectives:
   - A linguagem Kotlin cada vez mais cresce no mercado, seja pela adoção no ambiente Android, como também, na presença em outras plataformas. Muitas pessoas e empresas cada vez mais estão interessadas em desenvolver produtos em Kotlin, ou seja, é muito importante conhecer os fundamentos e técnicas específicas que a linguagem provê
-  - Entender a sua sintaxe
-  - Conhecer os tipos primitivos
-  - Declarar e usar variáveis e constantes
-  - Usar estruturas condicionais (if, else)
-  - Usar estruturas de repetição e laços (while, for)
-  - Usar funções, passando parâmetros e argumentos
-  - Implementando métodos e reutilizando eles
-  - Null Safety (Elimine o perigo de referências nulas)
-  - Exceptions e Throwables
-  - Convenções de código
-  - Manipular Coleções, arrays e listas
-  - Recursos do Paradigma funcional
-  - Orientação a Objetos com Kotlin (Properties, Data class, Companion Objects, Delegation)
 aditional-objectives:
 contents:
-  - type: SITE
-    title: "Começando com Kotlin (inglês)"
-    link: https://kotlinlang.org/docs/getting-started.html
-  - type: SITE
-    title: "Tipos Básicos e Kotlin (inglês)"
-    link: https://kotlinlang.org/docs/basic-types.html
-  - type: SITE
-    title: "Sintaxe básica do Kotlin(inglês)"
-    link: https://kotlinlang.org/docs/basic-syntax.html
-  - type: SITE
-    title: "Convenções de código do Kotlin(inglês)"
-    link: https://kotlinlang.org/docs/coding-conventions.html
-  - type: ARTICLE
-    title: "Kotlin - Variáveis e Nullable"
-    link: https://medium.com/luizalabs/kotlin-vari%C3%A1veis-e-nullable-8dd977bc376d
-  - type: YOUTUBE
-    title: "Kotlin // Dicionário do Programador"
-    link: https://youtu.be/BfjRYBN7Ur8
-  - type: YOUTUBE
-    title: "Curso de Kotlin (inglês)"
-    link: https://youtu.be/F9UC9DY-vIU
-alura-contents:
-  - type: YOUTUBE
-    title: "Desenvolvimento de apps mobile com Kotlin | Hipsters.Talks"
-    link: https://www.youtube.com/watch?v=TKYDpbO5KcI&ab_channel=AluraCursosOnline
-  - type: PODCAST
-    title: "Case Contabilizei: Kotlin - Hipsters Ponto Tech #310"
-    link: https://www.hipsters.tech/case-contabilizei-kotlin-hipsters-ponto-tech-310/
   - type: COURSE
-    title: "Formação Kotlin"
-    link: https://cursos.alura.com.br/formacao-kotlin
-  - type: CHALLENGE
-    title: "7 Days of Code: Kotlin"
-    link: https://7daysofcode.io/matricula/kotlin
+    title: "Introduction to Xcode(Free)"
+    link: https://www.pluralsight.com/courses/xcode-ios-fundamentals
+  - type: COURSE
+    title: "Xcode Debugging(Free)"
+    link: https://www.udacity.com/course/xcode-debugging--ud774
+  - type: COURSE
+    title: "Build Great IOS Apps (Swift)(Free)"
+    link: https://www.udemy.com/course/build-great-ios-apps-with-swift/?ranMID=39197&ranEAID=CuIbQrBnhiw&ranSiteID=CuIbQrBnhiw-MlihJ_LjnhWT5TBMjSurzQ&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=CuIbQrBnhiw
+  - type: COURSE
+    title: "The Complete Swift iOS Developer - Create Real Apps in Swift(Free)"
+    link: https://www.udemy.com/course/the-complete-ios-10-developer-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-avNNHEJpk2ksxegcfuEVow&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=JVFxdTr9V80
+  - type: COURSE
+    title: "This Is How You Make iPhone Apps - iOS Development Course(Free)"
+    link: https://www.udemy.com/course/iosdevelopment/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-zKjkmL__Qx7m7DeVoT9Hhw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+  - type: COURSE
+    title: "iOS App Development For Beginners - No Swift Skill Required(Free)"
+    link: https://www.udemy.com/course/iosdevelopment/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-zKjkmL__Qx7m7DeVoT9Hhw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+  - type: COURSE
+    title: "iOS Fundamentals(Free)"
+    link: https://www.pluralsight.com/courses/ios-11-fundamentals?clickid=R8CXgcTh6xyNTqYSvDyHPxH9UkAy4qwmZx3MyU0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius
+  - type: COURSE
+    title: "Basic Swift Programming and iOS - Free Preview(Free)"
+    link: https://www.udemy.com/course/the-complete-ios-developer-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KHREbbAs7zsqQH0Bj.9jQg&utm_medium=udemyads&utm_source=aff-campaign
+  - type: COURSE
+    title: "Introduction to iOS 11 Development: Swift 4 and Xcode 9(Free)"
+    link: https://www.udemy.com/course/the-complete-ios-developer-course/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-KHREbbAs7zsqQH0Bj.9jQg&utm_medium=udemyads&utm_source=aff-campaign
+alura-contents:
+  - type: COURSE
+    title: "Formação Desenvolva seu primeiro app em iOS"
+    link: https://www.alura.com.br/formacao-ios?gclid=CjwKCAiArY2fBhB9EiwAWqHK6iu6pClpJDn7-Oko47z7NzSUGFhhQjnlP8Swq-RL6_nkPRZD6aZVyhoC29YQAvD_BwE

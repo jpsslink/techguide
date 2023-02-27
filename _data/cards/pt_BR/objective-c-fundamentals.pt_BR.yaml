@@ -6,51 +6,65 @@ key-objectives:
 aditional-objectives:
 contents:
   - type: SITE
-    title: "Definindo classes (inglês)"
+    title: "[Apple Doc] Definindo classes (inglês)"
     link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#//apple_ref/doc/uid/TP40011210-CH3-SW1
   - type: SITE
-    title: "Trabalhando com objetos (inglês)"
+    title: "[Apple Doc] Trabalhando com objetos (inglês)"
     link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithObjects/WorkingwithObjects.html#//apple_ref/doc/uid/TP40011210-CH4-SW1
   - type: SITE
-    title: "Encapsulando dados (inglês)"
+    title: "[Apple Doc] Encapsulando dados (inglês)"
     link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/EncapsulatingData/EncapsulatingData.html#//apple_ref/doc/uid/TP40011210-CH5-SW1
   - type: SITE
-    title: "Customizando classes existentes (inglês)"
+    title: "[Apple Doc] Customizando classes existentes (inglês)"
     link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/CustomizingExistingClasses/CustomizingExistingClasses.html#//apple_ref/doc/uid/TP40011210-CH6-SW1
   - type: SITE
-    title: "Trabalhando com protocolos (inglês)"
+    title: "[Apple Doc] Trabalhando com protocolos (inglês)"
     link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithProtocols/WorkingwithProtocols.html#//apple_ref/doc/uid/TP40011210-CH11-SW1
   - type: SITE
-    title: "Valores e coleções (inglês)"
+    title: "[Apple Doc] Valores e coleções (inglês)"
     link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/FoundationTypesandCollections/FoundationTypesandCollections.html#//apple_ref/doc/uid/TP40011210-CH7-SW1
   - type: SITE
-    title: "Trabalhando com blocos (inglês)"
+    title: "[Apple Doc]Trabalhando com blocos (inglês)"
     link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/WorkingwithBlocks/WorkingwithBlocks.html#//apple_ref/doc/uid/TP40011210-CH8-SW1
   - type: SITE
-    title: "Lidando com erros (inglês)"
+    title: "[Apple Doc]Lidando com erros (inglês)"
     link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/ErrorHandling/ErrorHandling.html#//apple_ref/doc/uid/TP40011210-CH9-SW1
   - type: SITE
-    title: "Convenções (inglês)"
+    title: "[Apple Doc] Convenções (inglês)"
     link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html#//apple_ref/doc/uid/TP40011210-CH10-SW1
-  - type: ARTICLE
-    title: "Kotlin - Variáveis e Nullable"
-    link: https://medium.com/luizalabs/kotlin-vari%C3%A1veis-e-nullable-8dd977bc376d
-  - type: YOUTUBE
-    title: "Kotlin // Dicionário do Programador"
-    link: https://youtu.be/BfjRYBN7Ur8
-  - type: YOUTUBE
-    title: "Curso de Kotlin (inglês)"
-    link: https://youtu.be/F9UC9DY-vIU
-alura-contents:
-  - type: YOUTUBE
-    title: "Desenvolvimento de apps mobile com Kotlin | Hipsters.Talks"
-    link: https://www.youtube.com/watch?v=TKYDpbO5KcI&ab_channel=AluraCursosOnline
-  - type: PODCAST
-    title: "Case Contabilizei: Kotlin - Hipsters Ponto Tech #310"
-    link: https://www.hipsters.tech/case-contabilizei-kotlin-hipsters-ponto-tech-310/
   - type: COURSE
-    title: "Formação Kotlin"
-    link: https://cursos.alura.com.br/formacao-kotlin
-  - type: CHALLENGE
-    title: "7 Days of Code: Kotlin"
-    link: https://7daysofcode.io/matricula/kotlin
+    title: "Stanford Course"
+    link: https://itunes.apple.com/us/itunes-u/developing-apps-for-ios-sd/id395631522
+  - type: ARTICLE
+    title: "[Blocks] Practical Blocks"
+    link: https://www.mikeash.com/pyblog/friday-qa-2009-08-14-practical-blocks.html
+  - type: SITE
+    title: "[Blocks] How Do I Declare A Block in Objective-C?"
+    link: http://fuckingblocksyntax.com/
+  - type: ARTICLE
+    title: "[Blocks] How blocks are implemented (and the consequences)?"
+    link: https://www.cocoawithlove.com/2009/10/how-blocks-are-implemented-and.html
+  - type: ARTICLE
+    title: "[KVC - Key Value Coding] About Key-Value Coding"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueCoding/index.html
+  - type: ARTICLE
+    title: "[KVC - Key Value Coding] Let's Build Key-Value Coding"
+    link: https://www.mikeash.com/pyblog/friday-qa-2013-02-08-lets-build-key-value-coding.html
+  - type: ARTICLE
+    title: "[Tool free bridging] Toll Free Bridging Internals"
+    link: https://www.mikeash.com/pyblog/friday-qa-2010-01-22-toll-free-bridging-internals.html
+  - type: ARTICLE
+    title: "[KVO - Key Value Observing] Introduction to Key-Value Observing Programming Guide"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html
+  - type: ARTICLE
+    title: "[KVO - Key Value Observing] Key Value Observing"
+    link: https://nshipster.com/key-value-observing/
+  - type: ARTICLE
+    title: "[Runtime] Objective-C Runtime Programming Guide"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html
+  - type: ARTICLE
+    title: "[Runtime] Key-Value Observing Implementation Details"
+    link: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/KeyValueObserving/Articles/KVOImplementation.html
+  - type: ARTICLE
+    title: "[Runtime] Method Swizzling"
+    link: https://nshipster.com/method-swizzling/

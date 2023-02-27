@@ -5,37 +5,121 @@ key-objectives:
   - Swift é uma nova linguagem de progamação para desenvolvimento de aplicativos para iOS, macOS, watchOS e tvOS. Apesar disso, muitas partes da linguagem Swift serão familiares quando consideradas experiências anteriores de desenvolvimento em C e Objective-C. Swift provê suas próprias versões de todos os tipos fundamentais de C e Objective-C, incluindo Int para inteiros, Double e Float para valores de ponto flutuante, Bool para valores boleanos e String para dados textuais. Swift também provê versões poderosas dos três principais tipos de coleções, Array, Set e Dictionary
 aditional-objectives:
 contents:
+  - type: YOUTUBE
+    title: "[Stanford] Stanford iOS Development - Swift"
+    link: https://www.youtube.com/@stanfordiosdevelopment6432/videos
+  - type: COURSE
+    title: "[Stanford] CS193p - Developing Apps for iOS - Swift"
+    link: https://cs193p.sites.stanford.edu/2020
   - type: SITE
-    title: "O básico (inglês)"
+    title: "[Swift Doc] The Basic"
     link: https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
   - type: SITE
-    title: "Tipos Básicos e Kotlin (inglês)"
-    link: https://kotlinlang.org/docs/basic-types.html
+    title: "[Swift Doc] Closures"
+    link: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/closures/
   - type: SITE
-    title: "Sintaxe básica do Kotlin(inglês)"
-    link: https://kotlinlang.org/docs/basic-syntax.html
+    title: "[Swift Doc] Generics"
+    link: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/generics/
   - type: SITE
-    title: "Convenções de código do Kotlin(inglês)"
-    link: https://kotlinlang.org/docs/coding-conventions.html
+    title: "[Swift Doc] Protocols"
+    link: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/protocols/
+  - type: SITE
+    title: "[Swift Doc] Structures and Classes"
+    link: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/classesandstructures/
+  - type: SITE
+    title: "[Swift Doc] Enumerations"
+    link: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/enumerations/
+  - type: BOOK
+    title: "The Swift Programming Language (Swift 5.7)"
+    link: https://books.apple.com/br/book/the-swift-programming-language-swift-5-7/id881256329?uo=4&mt=11
+  - type: BOOK
+    title: "Advanced Swift"
+    link: https://www.objc.io/books/advanced-swift/
+  - type: BOOK
+    title: "Swift Apprentice"
+    link: https://www.kodeco.com/books/swift-apprentice
+  - type: SITE
+    title: "Swift by Sundell"
+    link: https://www.swiftbysundell.com/
+  - type: SITE
+    title: "Swifter"
+    link: https://en.swifter.tips/
+  - type: SITE
+    title: "[Closures] How Do I Declare a Closure in Swift?"
+    link: https://fuckingclosuresyntax.com/
+  - type: SITE
+    title: "[Initializers] Swift Tutorial: Initialization In Depth, Part 1/2"
+    link: https://www.kodeco.com/1220-swift-tutorial-initialization-in-depth-part-1-2
+  - type: SITE
+    title: "[Initializers] Swift Tutorial: Initialization In Depth, Part 2/2"
+    link: https://www.kodeco.com/1219-swift-tutorial-initialization-in-depth-part-2-2
+  - type: SITE
+    title: "[Generics] Swift Generics Tutorial: Getting Started"
+    link: https://www.kodeco.com/3535703-swift-generics-tutorial-getting-started
+  - type: SITE
+    title: "[Protocols] Separation of concerns using protocols in Swift"
+    link: https://www.swiftbysundell.com/articles/separation-of-concerns-using-protocols-in-swift/
+  - type: SITE
+    title: "[Protocols] Replacing legacy code using Swift protocols"
+    link: https://www.swiftbysundell.com/articles/replacing-legacy-code-using-swift-protocols/
+  - type: SITE
+    title: "[Protocols] Swift Optional Protocol Methods"
+    link: https://useyourloaf.com/blog/swift-optional-protocol-methods/
   - type: ARTICLE
-    title: "Kotlin - Variáveis e Nullable"
-    link: https://medium.com/luizalabs/kotlin-vari%C3%A1veis-e-nullable-8dd977bc376d
+    title: "[Runtime] How does iOS Swift Runtime work"
+    link: https://stackoverflow.com/questions/37315295/how-does-ios-swift-runtime-work
+  - type: SITE
+    title: "Variáveis e Constantes em Swift"
+    link: https://dev.to/reisdev/variaveis-e-constantes-em-swift-1ddm
+  - type: ARTICLE
+    title: "Propriedades em Swift"
+    link: https://pt.linkedin.com/pulse/propriedades-em-swift-pedro-menezes-/
+  - type: ARTICLE
+    title: "Optional em Swift"
+    link: https://dev.to/reisdev/optionals-em-swift-4lh0
+  - type: ARTICLE
+    title: "Entendendo [ weak self ] no Swift"
+    link: https://medium.com/@jonatanm89/entendendo-weak-self-no-swift-2ba061326504
+  - type: ARTICLE
+    title: "Gerenciamento de memória no iOS — weak, strong e unowned"
+    link: https://deciomontanhani.com.br/gerenciamento-de-memoria/
+  - type: ARTICLE
+    title: "Desmistificando a programação orientada a protocolos"
+    link: https://medium.com/@maclacerda/desmistificando-a-pop-2555d8335fb5
+  - type: ARTICLE
+    title: "Você sabe o que são Property Wrappers? (Parte 1)"
+    link: https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-1-60c5f159a063
+  - type: ARTICLE
+    title: "Você sabe o que são Property Wrappers? (Parte 2)"
+    link: https://medium.com/@maclacerda/voc%C3%AA-sabe-o-que-s%C3%A3o-property-wrappers-parte-2-7c32b3a2d63b
+  - type: ARTICLE
+    title: "Timer — Manipulando o tempo utilizando o Timer(iOS)"
+    link: https://medium.com/@viniciusmangueira/utilizando-o-timer-de-forma-pr%C3%A1tica-47231aafcb80
   - type: YOUTUBE
-    title: "Kotlin // Dicionário do Programador"
-    link: https://youtu.be/BfjRYBN7Ur8
+    title: "Automatizando a detecção de vazamento de memória, evitando bugs"
+    link: https://www.youtube.com/watch?v=Zxo2p1MpkI4
   - type: YOUTUBE
-    title: "Curso de Kotlin (inglês)"
-    link: https://youtu.be/F9UC9DY-vIU
+    title: "Como trabalhar com Closures"
+    link: https://www.youtube.com/watch?v=Lkv4bYzuH_Y
+  - type: YOUTUBE
+    title: "Desvendando o ARC no Swift"
+    link: https://www.youtube.com/watch?v=CZbOUMOxtU8
+  - type: YOUTUBE
+    title: "Struct ou Class, pra que serve?"
+    link: https://www.youtube.com/watch?v=tKSNjg9Cb_g
 alura-contents:
-  - type: YOUTUBE
-    title: "Desenvolvimento de apps mobile com Kotlin | Hipsters.Talks"
-    link: https://www.youtube.com/watch?v=TKYDpbO5KcI&ab_channel=AluraCursosOnline
-  - type: PODCAST
-    title: "Case Contabilizei: Kotlin - Hipsters Ponto Tech #310"
-    link: https://www.hipsters.tech/case-contabilizei-kotlin-hipsters-ponto-tech-310/
-  - type: COURSE
-    title: "Formação Kotlin"
-    link: https://cursos.alura.com.br/formacao-kotlin
-  - type: CHALLENGE
-    title: "7 Days of Code: Kotlin"
-    link: https://7daysofcode.io/matricula/kotlin
+  - type: ARTICLE
+    title: "iOS e Swift: O que são Classes e Struct, as diferenças e quando usar"
+    link: https://www.alura.com.br/artigos/ios-swift-classes-struct-diferencas-us
+  - type: ARTICLE
+    title: "iOS - Opcionais em Swift: como utilizar?"
+    link: https://www.alura.com.br/artigos/ios-opcionais-swift
+  - type: ARTICLE
+    title: "iOS e Swift: Entendendo o uso de Generics: Por que e como utilizar?"
+    link: https://www.alura.com.br/artigos/ios-swift-entendendo-uso-generics-por-que-como-utilizar
+  - type: ARTICLE
+    title: "iOS e Swift: Como funcionam os modificadores de acesso"
+    link: https://www.alura.com.br/artigos/ios-swift-como-funcionam-modificadores-de-acesso
+  - type: ARTICLE
+    title: "iOS e Swift: Conversão de dados com Codable (Encodable e Decodable)"
+    link: https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable

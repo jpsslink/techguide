@@ -23,6 +23,9 @@ contents:
   - type: YOUTUBE
     title: "FernandaDev: O que é Programação Orientada a Objetos?(POO)"
     link: https://www.youtube.com/watch?v=QJjY2TNyl-8
+  - type: ARTICLE
+    title: "Object-Oriented Programming with Objective-C(inglês)"
+    link: https://everythingcomputerscience.com/books/OOP_ObjC.pdf
 alura-contents:
   - type: ARTICLE
     title: "POO: o que é programação orientada a objetos?"
