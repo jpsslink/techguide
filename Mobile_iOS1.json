@@ -410,6 +410,193 @@
                   "link": "https://www.alura.com.br/artigos/ios-swift-conversao-dados-codable-encodable-decodable"
               }
           ]
+        },
+        {
+            "name": "Cocoa Touch",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Cocoa Touch é o ambiente de desenvolvimento de aplicativos para criação de softwares que rodam no iOS para iPhone e iPod Touch, iPadOS para iPad, watchOS para Apple Watch e tvOS para a Apple TV de quarta geração, da Apple Inc. O Cocoa Touch fornece uma camada de abstração do iOS, o sistema operacional para iPhone, iPod Touch e iPad. Ele é baseado no conjunto de ferramentas da API Cocoa do macOS e, como ela, é escrito principalmente na linguagem Objective-C. O Cocoa Touch permite o uso de hardware e recursos que não são encontrados nos computadores macOS e, portanto, são exclusivos da gama de dispositivos iOS. Assim como a Cocoa, o Cocoa Touch segue uma arquitetura de software Model-View-Controller (MVC). O Cocoa Touch contém um conjunto diferente de elementos de controle gráfico do Cocoa. As ferramentas para o desenvolvimento de aplicativos baseados no Cocoa Touch estão incluídas no SDK do iOS."
+            ],
+            "aditional-objectives": null,
+            "contents": [
+                {
+                    "type": "SITE",
+                    "title": "[UIKit] iOS do princípio com Swift: Primeiros passos com UIKit",
+                    "link": "https://code.tutsplus.com/pt/tutorials/ios-do-principio-com-swift-primeiros-passos-com-uikit--cms-25461"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit] UIKit: renderizando componentes no SwiftUI",
+                    "link": "https://medium.com/ioasys-voices/uikit-renderizando-componentes-no-swiftui-9ae3619916bf"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[UIKit/UIApplication] UIApplication- The centralized point of control and coordination for apps running in iOS.",
+                    "link": "https://developer.apple.com/documentation/uikit/uiapplication?language=objc"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[UIKit/UIApplication] Managing your app’s life cycle",
+                    "link": "https://developer.apple.com/documentation/uikit/app_and_environment/managing_your_app_s_life_cycle"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[UIKit/UIApplication] UIApplicationDelegate - A set of methods to manage shared behaviors for your app.",
+                    "link": "https://developer.apple.com/documentation/uikit/uiapplicationdelegate?language=objc"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] UIView Fundamentals",
+                    "link": "https://www.weheartswift.com/uiview-fundamentals/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] UITableView - Clean Table View Code",
+                    "link": "https://www.objc.io/issues/1-view-controllers/table-views/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] UICollectionView - Custom Collection View Layouts",
+                    "link": "https://www.objc.io/issues/3-views/collection-view-layouts/"
+                },
+                {
+                    "type": "COURSE",
+                    "title": "[UIKit/UIView] Layers - CALayer Tutorial for iOS: Getting Started",
+                    "link": "https://www.kodeco.com/10317653-calayer-tutorial-for-ios-getting-started"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Demystifying iOS Layout",
+                    "link": "https://tech.gc.com/demystifying-ios-layout/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Understanding Auto Layout Constraints — Part 1",
+                    "link": "https://codeburst.io/understanding-auto-layout-constraints-part-1-844474e81d1e"
+                },
+                {
+                    "type": "COURSE",
+                    "title": "[UIKit/UIView] Layout - UIStackView Tutorial for iOS: Introducing Stack Views",
+                    "link": "https://www.kodeco.com/2198310-uistackview-tutorial-for-ios-introducing-stack-views"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Animations",
+                    "link": "https://www.objc.io/issues/12-animations/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Understanding UIView’s transform property (part 1)",
+                    "link": "https://ninjapro.wordpress.com/2016/08/23/understanding-uiviews-transform-property-part-1/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Understanding UIView’s transform property (final)",
+                    "link": "https://ninjapro.wordpress.com/2016/08/27/understanding-uiviews-transform-property-final-part/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Layout - Core​Graphics Geometry Primitives",
+                    "link": "https://nshipster.com/cggeometry/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Navigation - Improve your iOS Architecture with FlowControllers",
+                    "link": "https://www.merowing.info/improve-your-ios-architecture-with-flowcontrollers/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] Navigation - Screen navigation in iOS",
+                    "link": "https://medium.com/bumble-tech/screen-navigation-in-ios-dd99b09228b2"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UIKit/UIView] UIViewController - The Role of View Controllers",
+                    "link": "https://developer.apple.com/library/archive/featuredarticles/ViewControllerPGforiPhoneOS/"
+                }
+            ]
+        },
+        {
+            "name": "Foundation",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Core Foundation (também chamado de CF) é uma interface de programação de aplicativo (API) C escrita pela Apple para seus sistemas operacionais e é uma mistura de rotinas de baixo nível e funções de wrapper. A maioria das rotinas do Core Foundation segue uma certa convenção de nomenclatura que lida com objetos opacos, por exemplo, CFDictionaryRef para funções cujos nomes começam com CFDictionary, e esses objetos geralmente são contados por referência (manualmente) por meio de CFRetain e CFRelease. Internamente, o Core Foundation forma a base dos tipos na biblioteca padrão Objective-C e na Carbon API"
+            ],
+            "aditional-objectives": null,
+            "contents": [
+                {
+                    "type": "ARTICLE",
+                    "title": "When to use Delegation, Notification, or Observation in iOS",
+                    "link": "https://shinesolutions.com/2011/06/14/delegation-notification-and-observation/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Collections] The Foundation Collection Classes",
+                    "link": "https://www.objc.io/issues/7-foundation/collections/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Networking] A Crash Course on Networking in iOS",
+                    "link": "https://www.sitepoint.com/a-crash-course-on-networking-in-ios/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Serialization] Encoding and Decoding in Swift",
+                    "link": "https://www.kodeco.com/3418439-encoding-and-decoding-in-swift"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Serialization] NSCoding / NSKeyed​Archiver",
+                    "link": "https://nshipster.com/nscoding/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Serialization] Swift Codability",
+                    "link": "https://medium.com/hackernoon/swift-codability-d0d232065cad"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Serialization] Working with JSON in Swift",
+                    "link": "https://developer.apple.com/swift/blog/?id=37"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Serialization] Introduction to Protocol Buffers on iOS",
+                    "link": "https://www.kodeco.com/749-introduction-to-protocol-buffers-on-ios"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[UserNotifications] UserNotifications in Swift 3 (Part 1)",
+                    "link": "https://medium.com/yay-its-erica/usernotifications-in-swift-3-part-1-d250e54440c1"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[CoreLocation] iOS Location Tracking",
+                    "link": "https://medium.com/bumble-tech/ios-location-tracking-aac4e2323629"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[CoreMotion] Process accelerometer, gyroscope, pedometer, and environment-related events.",
+                    "link": "https://developer.apple.com/documentation/coremotion?language=objc"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[CoreMotion] WWDC - Health and Fitness with Core Motion", 
+                    "link": "https://developer.apple.com/videos/wwdc2016"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[CoreMotion] WWDC - Creating Immersive Apps with Core Motion", 
+                    "link": "https://developer.apple.com/videos/wwdc2017"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[BackgroundMode] Background Modes Tutorial: Getting Started", 
+                    "link": "https://www.kodeco.com/34269507-background-modes-tutorial-getting-started"
+                }
+            ]
         }
       ]
     },
