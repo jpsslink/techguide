@@ -597,6 +597,104 @@
                     "link": "https://www.kodeco.com/34269507-background-modes-tutorial-getting-started"
                 }
             ]
+        },
+        {
+            "name": "Layout",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Core Foundation (também chamado de CF) é uma interface de programação de aplicativo (API) C escrita pela Apple para seus sistemas operacionais e é uma mistura de rotinas de baixo nível e funções de wrapper. A maioria das rotinas do Core Foundation segue uma certa convenção de nomenclatura que lida com objetos opacos, por exemplo, CFDictionaryRef para funções cujos nomes começam com CFDictionary, e esses objetos geralmente são contados por referência (manualmente) por meio de CFRetain e CFRelease. Internamente, o Core Foundation forma a base dos tipos na biblioteca padrão Objective-C e na Carbon API"
+            ],
+            "aditional-objectives": null,
+            "contents": [
+                {
+                    "type": "YOUTUBE",
+                    "title": "Conhecendo UIVIEW e CONSTRAINTS no iOS",
+                    "link": "https://www.youtube.com/watch?v=HX38K7fz_Uw"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "iOS User Interfaces: Storyboards vs. NIBs vs. Custom Code",
+                    "link": "https://www.toptal.com/ios/ios-user-interfaces-storyboards-vs-nibs-vs-custom-code"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Storyboard] Desmistificando Storyboards",
+                    "link": "http://equinocios.com/storyboards/2016/03/07/desmistificando-storyboards/"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": "[Storyboard] Como criar um app iOS usando Storyboard",
+                    "link": "https://www.youtube.com/watch?v=hWA1WmjkxJU"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[SwiftUI] SwiftUI Notes",
+                    "link": "https://heckj.github.io/swiftui-notes/"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": "[SwiftUI] Introdução ao SwiftUI - Construindo aplicativos iOS",
+                    "link": "https://www.youtube.com/watch?v=4eC49rYeugs"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] View Code em Swift",
+                    "link": "https://medium.com/mackmobile/view-code-em-swift-6026f42bf780"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] Implementando interfaces iOS em view code",
+                    "link": "https://medium.com/ioasys-voices/implementando-interfaces-ios-em-view-code-325656518f93"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] Curso iOS: Módulo sobre view code",
+                    "link": "https://medium.com/@tpLioy/curso-ios-m%C3%B3dulo-sobre-view-code-af0f6188297b"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] Com quantas views se faz uma APP?",
+                    "link": "http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] Começando com View Code no iOS",
+                    "link": "https://medium.com/@joaoalexandrebitar/come%C3%A7ando-com-view-code-no-ios-f409334ff1d"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] Building an App With Only Code Using Auto Layout",
+                    "link": "https://www.kodeco.com/6004856-building-an-app-with-only-code-using-auto-layout"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Views] SnapKit for iOS: Constraints in a Snap",
+                    "link": "https://www.kodeco.com/3225401-snapkit-for-ios-constraints-in-a-snap"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": "[Views] Como usar ViewCode sem storyboard",
+                    "link": "https://www.youtube.com/watch?v=_zhI9Nuuw_Y"
+                }
+            ],
+            "alura-contents": [
+                {
+                    "type": "ARTICLE",
+                    "title": "iOS e Swift: Diferenças na construção de layouts com Storyboard, XIB e View Code",
+                    "link": "https://www.alura.com.br/artigos/ios-swift-diferencas-construcao-layouts-storyboard-xib-view-code"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Storyboard] Swift parte 2: UIKit, Storyboard e o padrão Delegate",
+                    "link": "https://www.alura.com.br/conteudo/swift-uikit-storyboard"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[SwiftUI] iOS: layouts com SwiftUI",
+                    "link": "https://www.alura.com.br/conteudo/swift-ui"
+                },
+            ]
         }
       ]
     },
