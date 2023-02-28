@@ -603,7 +603,7 @@
             "logo": null,
             "short-description": null,
             "key-objectives": [
-                "Core Foundation (também chamado de CF) é uma interface de programação de aplicativo (API) C escrita pela Apple para seus sistemas operacionais e é uma mistura de rotinas de baixo nível e funções de wrapper. A maioria das rotinas do Core Foundation segue uma certa convenção de nomenclatura que lida com objetos opacos, por exemplo, CFDictionaryRef para funções cujos nomes começam com CFDictionary, e esses objetos geralmente são contados por referência (manualmente) por meio de CFRetain e CFRelease. Internamente, o Core Foundation forma a base dos tipos na biblioteca padrão Objective-C e na Carbon API"
+                "Quando criamos uma aplicação, precisamos pensar muito em como o seu layout será desenvolvido. No mundo do desenvolvimento iOS, falando especificamente sobre o UIKit, que é um framework criado pela Apple que permite a construção de aplicações iOS, temos três diferentes modos de construir interfaces: Storyboard, XIB ou View Code."
             ],
             "aditional-objectives": null,
             "contents": [
@@ -693,7 +693,7 @@
                     "type": "ARTICLE",
                     "title": "[SwiftUI] iOS: layouts com SwiftUI",
                     "link": "https://www.alura.com.br/conteudo/swift-ui"
-                },
+                }
             ]
         }
       ]
