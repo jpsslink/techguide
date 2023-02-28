@@ -32,7 +32,7 @@
                 "type": "SITE",
                 "title": "How to become a professional iOS developer",
                 "link": "https://roadfiresoftware.com/2014/04/how-to-become-a-professional-ios-developer/"
-            },                    
+              },                    
               {
                   "type": "COURSE",
                   "title": "Introduction to Xcode(Free)",
@@ -701,11 +701,131 @@
     {
       "name": "Nivel 2 - Intermediário",
       "cards": [
+        {
+          "name": "Recursos Nativos",
+          "logo": null,
+          "short-description": null,
+          "key-objectives": [
+              "Recursos Nativos"
+          ],
+          "aditional-objectives": null,
+          "contents": []
+        },
+        {
+            "name": "Design Patterns",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Design Patterns"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+        },
+        {
+            "name": "Version Control System",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Version Control System"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+        },
+        {
+            "name": "Gerenciadores de dependencias",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Gerenciador de dependencias"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+        },
+        {
+            "name": "Networking",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Networking"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+        },
+        {
+            "name": "Animações",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Animações"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+        }
       ]
     },
     {
       "name": "Nivel 3 - Avançado",
       "cards": [
+        {
+            "name": "Gerenciamento de memória",
+            "logo": null,
+            "short-description": null,
+            "key-objectives": [
+                "Gerenciamento de memória"
+            ],
+            "aditional-objectives": null,
+            "contents": []
+          },
+          {
+              "name": "Multithreading e concorrência",
+              "logo": null,
+              "short-description": null,
+              "key-objectives": [
+                  "Multithreading e concorrência"
+              ],
+              "aditional-objectives": null,
+              "contents": []
+          },
+          {
+              "name": "Debugging",
+              "logo": null,
+              "short-description": null,
+              "key-objectives": [
+                  "Debugging"
+              ],
+              "aditional-objectives": null,
+              "contents": []
+          },
+          {
+              "name": "Testes Unitários",
+              "logo": null,
+              "short-description": null,
+              "key-objectives": [
+                  "Testes Unitários"
+              ],
+              "aditional-objectives": null,
+              "contents": []
+          },
+          {
+              "name": "Segurança",
+              "logo": null,
+              "short-description": null,
+              "key-objectives": [
+                  "Segurança"
+              ],
+              "aditional-objectives": null,
+              "contents": []
+          },
+          {
+              "name": "Acessibilidade",
+              "logo": null,
+              "short-description": null,
+              "key-objectives": [
+                  "Acessibilidade"
+              ],
+              "aditional-objectives": null,
+              "contents": []
+          }
       ]
     }
   ],
