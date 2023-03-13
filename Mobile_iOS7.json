@@ -914,7 +914,7 @@
                 },
                 {
                     "type": "YOUTUBE",
-                    "title": "SWIFTUI: ANIMAÇÕES NO iOS - COMO COMEÇAR ",
+                    "title": "SWIFTUI: ANIMAÇÕES NO iOS - COMO COMEÇAR",
                     "link": "https://www.youtube.com/watch?v=k6zgW9yIPCE"
                 }
             ]
@@ -932,7 +932,73 @@
                 "Gerenciamento de memória"
             ],
             "aditional-objectives": null,
-            "contents": []
+            "contents": [
+                {
+                    "type": "SITE",
+                    "title": "About Memory Management",
+                    "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html"
+                },
+                {
+                    "type": "SITE",
+                    "title": "How do reference counting and garbage collection compare?",
+                    "link": "https://www.quora.com/How-do-reference-counting-and-garbage-collection-compare"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Stack and Heap Objects in Objective-C",
+                    "link": "https://www.mikeash.com/pyblog/friday-qa-2010-01-15-stack-and-heap-objects-in-objective-c.html"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Swift - Value and Reference Types",
+                    "link": "https://developer.apple.com/swift/blog/?id=10"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Value and Reference Types",
+                    "link": "https://raquo.net/2014/09/value-and-reference-types/"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Memory Management Tutorial for iOS",
+                    "link": "https://www.kodeco.com/3090-memory-management-tutorial-for-ios"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Beginning ARC in iOS 5 Tutorial Part 1",
+                    "link": "https://www.kodeco.com/2992-beginning-arc-in-ios-5-tutorial-part-1"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Swift Weak References",
+                    "link": "https://www.mikeash.com/pyblog/friday-qa-2015-12-11-swift-weak-references.html"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Retain Cycles, Weak and Unowned in Swift",
+                    "link": "https://www.thomashanning.com/retain-cycles-weak-unowned-swift/"
+                },
+                {
+                    "type": "SITE",
+                    "title": "How does garbage collection happen in iOS?",
+                    "link": "https://www.quora.com/unanswered/How-does-garbage-collection-happen-in-iOS"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Swift’s ARC and Memory Leaks",
+                    "link": "https://medium.com/ios-seminar/swifts-arc-and-memory-leaks-1a227cae55da"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Copy Functions",
+                    "link": "https://developer.apple.com/library/archive/documentation/CoreFoundation/Conceptual/CFMemoryMgmt/Concepts/CopyFunctions.html"
+                },
+                {
+                    "type": "SITE",
+                    "title": "@autoreleasepool",
+                    "link": "https://en.swifter.tips/autoreleasepool/"
+                }
+            ]
           },
           {
               "name": "Multithreading e concorrência",
@@ -942,7 +1008,63 @@
                   "Multithreading e concorrência"
               ],
               "aditional-objectives": null,
-              "contents": []
+              "contents": [
+                {
+                    "type": "SITE",
+                    "title": "Thread Management",
+                    "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/CreatingThreads/CreatingThreads.html"
+                },
+                {
+                    "type": "SITE",
+                    "title": "PerformSelector may cause a leak because its selector is unknown",
+                    "link": "https://stackoverflow.com/questions/7017281/performselector-may-cause-a-leak-because-its-selector-is-unknown"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Grand Central Dispatch Tutorial for Swift 5: Part 1/2",
+                    "link": "https://www.raywenderlich.com/60749/grand-central-dispatch-in-depth-part-1"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Grand Central Dispatch (GCD)",
+                    "link": "https://www.udacity.com/course/grand-central-dispatch-gcd--ud576"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "NSOperation",
+                    "link": "https://nshipster.com/nsoperation/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Run Loops",
+                    "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Syncronization",
+                    "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/ThreadSafety/ThreadSafety.html"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Multithreading: Common Pitfalls",
+                    "link": "https://austingwalters.com/multithreading-common-pitfalls/"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Race Conditions and Secure File Operations",
+                    "link": "https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Articles/RaceConditions.html"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Avoiding deadlocks and latency in libdispatch",
+                    "link": "https://www.cocoawithlove.com/2010/06/avoiding-deadlocks-and-latency-in.html"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Dispatch Barriers in Swift 3",
+                    "link": "https://medium.com/@oyalhi/dispatch-barriers-in-swift-3-6c4a295215d6"
+                }
+              ]
           },
           {
               "name": "Debugging",
@@ -952,7 +1074,13 @@
                   "Debugging"
               ],
               "aditional-objectives": null,
-              "contents": []
+              "contents": [
+                {
+                    "type": "SITE",
+                    "title": "Instruments Tutorial with Swift: Getting Started",
+                    "link": "https://www.kodeco.com/16126261-instruments-tutorial-with-swift-getting-started"
+                }
+              ]
           },
           {
               "name": "Testes Unitários",
@@ -962,7 +1090,63 @@
                   "Testes Unitários"
               ],
               "aditional-objectives": null,
-              "contents": []
+              "contents": [
+                {
+                    "type": "SITE",
+                    "title": "iOS Unit Testing and UI Testing Tutorial",
+                    "link": "https://www.kodeco.com/21020457-ios-unit-testing-and-ui-testing-tutorial"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Singleton, Service Locator and tests in iOS",
+                    "link": "https://medium.com/bumble-tech/singleton-service-locator-and-tests-in-ios-d69484e88944"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Unit testing asynchronous Swift code",
+                    "link": "https://www.swiftbysundell.com/articles/unit-testing-asynchronous-swift-code/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "iOS Teste Unitário e Teste de UI — Tutorial",
+                    "link": "https://hoffsilva.medium.com/ios-teste-unit%C3%A1rio-e-teste-de-ui-tutorial-1360bb66ff73"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Escrevendo Testes Unitários para uma ViewController com TableView",
+                    "link": "https://medium.com/usemobile/escrevendo-testes-unit%C3%A1rios-para-uma-viewcontroller-com-tableview-91ee923de478"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Swift: Testes Unitários com MVVM",
+                    "link": "https://softdesign.com.br/blog/testes-unitarios-em-swift-com-mvvm/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Start: Testes Automatizados com XCTest Framework para testes de iOS App",
+                    "link": "https://www.linkedin.com/pulse/start-testes-automatizados-com-xctest-framework-para-de-lacerda/?originalSubdomain=pt"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Test Doubles Swift",
+                    "link": "https://medium.com/digitalproductsdev/test-doubles-swift-cd43372eb45e"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "iOS Tests 101",
+                    "link": "https://medium.com/ifood-tech/ios-tests-101-c078505e2200"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": "Automação de testes NATIVA para iOS com XCUITest",
+                    "link": "https://www.youtube.com/watch?v=-JyD2EMRxVA"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": "Lidando com FileManager em testes unitários",
+                    "link": "https://www.youtube.com/watch?v=0i1y2Kmzkj4"
+                }
+              ]
           },
           {
               "name": "Segurança",
@@ -972,7 +1156,28 @@
                   "Segurança"
               ],
               "aditional-objectives": null,
-              "contents": []
+              "contents": [
+                {
+                    "type": "ARTICLE",
+                    "title": "Segurança em dispositivos iOS",
+                    "link": "https://wh0isdxk.medium.com/seguran%C3%A7a-em-dispositivos-ios-a422840b71a2"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Criptografia para dispositivos iOS",
+                    "link": "https://medium.com/@viniciusmangueira/criptografia-para-dispositivos-ios-ca840639ee10"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Everything you need to know about SSL Pinning",
+                    "link": "https://medium.com/@anuj.rai2489/ssl-pinning-254fa8ca2109"
+                },
+                {
+                    "type": "SITE",
+                    "title": "iOS Anti-Reversing Defenses",
+                    "link": "https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06j-testing-resiliency-against-reverse-engineering"
+                }
+              ]
           },
           {
               "name": "Acessibilidade",
@@ -982,7 +1187,23 @@
                   "Acessibilidade"
               ],
               "aditional-objectives": null,
-              "contents": []
+              "contents": [
+                {
+                    "type": "ARTICLE",
+                    "title": "Acessibilidade no iOS — Introdução",
+                    "link": "https://viniciusfranca.dev/acessibilidade-no-ios-introdu%C3%A7%C3%A3o-d3b92cfde122"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Tornando o seu app acessível por todos no iOS.",
+                    "link": "https://medium.com/@GusSevero/tornando-o-seu-app-acess%C3%ADvel-por-todos-e93c1aa2ad9d"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Voice Over",
+                    "link": "https://medium.com/mackmobile/voice-over-66e2a051f157"
+                }
+              ]
           }
       ]
     }
