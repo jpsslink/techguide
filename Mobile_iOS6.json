@@ -709,7 +709,33 @@
               "Recursos Nativos"
           ],
           "aditional-objectives": null,
-          "contents": []
+          "contents": [
+            {
+                "type": "SITE",
+                "title": "[Core Data] What Is Core Data",
+                "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html#//apple_ref/doc/uid/TP40011210-CH3-SW1https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/index.html"
+            },
+            {
+                "type": "SITE",
+                "title": "[Core Data] Core Data from Scratch: Concurrency",
+                "link": "https://code.tutsplus.com/tutorials/core-data-from-scratch-concurrency--cms-22131"
+            },
+            {
+                "type": "ARTICLE",
+                "title": "[Core Data] Aprendendo CoreData com SwiftUI",
+                "link": "https://medium.com/academy-ifce/aprendendo-coredata-com-swiftui-90c9d2159714"
+            },
+            {
+                "type": "ARTICLE",
+                "title": "[Core Data] Uma Introdução à Persistência em iOS",
+                "link": "https://medium.com/mackmobile/coredata-940c3c61b048"
+            },
+            {
+                "type": "ARTICLE",
+                "title": "[Core Data] Persistência de dados usando Core Data",
+                "link": "http://equinocios.com/banco%20de%20dados/2017/03/30/persistencia-de-dados-usando-core-data/"
+            }
+          ]
         },
         {
             "name": "Design Patterns",
@@ -719,7 +745,53 @@
                 "Design Patterns"
             ],
             "aditional-objectives": null,
-            "contents": []
+            "contents": [
+                {
+                    "type": "SITE",
+                    "title": "[Cocoa] Cocoa Design Patterns",
+                    "link": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CocoaFundamentals/CocoaDesignPatterns/CocoaDesignPatterns.html"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[Cocoa] Collection for Design Patterns in Swift",
+                    "link": "https://medium.com/swiftworld/collection-for-design-patterns-in-swift-67265359aa47"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Architetural] iOS Architecture Patterns",
+                    "link": "https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "[Architetural] Designing iOS architecture: Motivation",
+                    "link": "https://medium.com/ios-os-x-development/designing-ios-architecture-motivation-e984e4ebba4a"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[Architetural] Architecture checklist",
+                    "link": "https://github.com/BohdanOrlov/architecture-checklist"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[Architetural] MVC - Stanford Presentation",
+                    "link": "https://github.com/BohdanOrlov/architecture-checklist"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[Architetural] MVC - Do MVC like it’s 1979",
+                    "link": "https://medium.com/bumble-tech/do-mvc-like-its-1979-da62304f6568"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[Architetural] MVVM - Introduction to MVVM ",
+                    "link": "https://www.objc.io/issues/13-architecture/mvvm/"
+                },
+                {
+                    "type": "SITE",
+                    "title": "[Architetural] MVVM - Different flavors of view models in Swift",
+                    "link": "https://www.swiftbysundell.com/articles/different-flavors-of-view-models-in-swift/"
+                }
+            ]
         },
         {
             "name": "Version Control System",
@@ -729,7 +801,23 @@
                 "Version Control System"
             ],
             "aditional-objectives": null,
-            "contents": []
+            "contents": [
+                {
+                    "type": "SITE",
+                    "title": "git",
+                    "link": "https://git-scm.com/"
+                },
+                {
+                    "type": "SITE",
+                    "title": "git - the simple guide",
+                    "link": "http://rogerdudler.github.io/git-guide/"
+                },
+                {
+                    "type": "SITE",
+                    "title": "git - book",
+                    "link": "https://git-scm.com/book/en/v2"
+                }
+            ]
         },
         {
             "name": "Gerenciadores de dependencias",
@@ -739,7 +827,40 @@
                 "Gerenciador de dependencias"
             ],
             "aditional-objectives": null,
-            "contents": []
+            "contents": [
+                {
+                    "type": "SITE",
+                    "title": "CocoaPods Tutorial for Swift: Getting Started",
+                    "link": "https://www.kodeco.com/7076593-cocoapods-tutorial-for-swift-getting-started"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Carthage Tutorial: Getting Started",
+                    "link": "https://www.kodeco.com/7649117-carthage-tutorial-getting-started"
+                },
+                {
+                    "type": "SITE",
+                    "title": "Swift Package Manager",
+                    "link": "https://www.swift.org/package-manager/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Gerenciadores de Dependências iOS",
+                    "link": "https://blog.tokenlab.com.br/gerenciadores-de-dependencias-ios/"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Carthage: Um gerenciador de dependências para projetos Xcode",
+                    "link": "https://www.infoq.com/br/news/2015/07/carthage-dependency-manager/"
+                }
+            ],
+            "alura-contents": [
+                {
+                    "type": "ARTICLE",
+                    "title": "iOS e Swift: Instalação e uso do gerenciador de dependências Cocoapods",
+                    "link": "https://www.alura.com.br/artigos/ios-swift-instalacao-uso-gerenciador-dependencias-cocoapods"
+                }
+            ]
         },
         {
             "name": "Networking",
@@ -749,7 +870,33 @@
                 "Networking"
             ],
             "aditional-objectives": null,
-            "contents": []
+            "contents": [
+                {
+                    "type": "ARTICLE",
+                    "title": "Async/Await: Camada Network genérica com Swift 5.5",
+                    "link": "https://medium.com/@victorcatao/async-await-camada-network-gen%C3%A9rica-com-swift-5-5-18aa8f177c9c"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Como fazer um GET em Swift 4.2",
+                    "link": "https://medium.com/mackmobile/como-fazer-um-get-em-swift-4-2-4acc53854241"
+                },
+                {
+                    "type": "ARTICLE",
+                    "title": "Consumindo API com SwiftUI",
+                    "link": "https://medium.com/zeroeumas/consumindo-api-com-swiftui-285dd055fb1a"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": " Consumindo dados de uma API em Swift ",
+                    "link": "https://www.youtube.com/watch?v=nnBYugt3msA"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": "Buscando dados da API de forma SIMPLES",
+                    "link": "https://www.youtube.com/watch?v=osLMXdyC1mc"
+                }
+            ]
         },
         {
             "name": "Animações",
@@ -759,7 +906,18 @@
                 "Animações"
             ],
             "aditional-objectives": null,
-            "contents": []
+            "contents": [
+                {
+                    "type": "ARTICLE",
+                    "title": "Melhorando a experiência do seu app com animações — iOS",
+                    "link": "https://leocoout.medium.com/melhorando-a-experi%C3%AAncia-do-seu-app-com-anima%C3%A7%C3%B5es-ios-5c09874b9eb5"
+                },
+                {
+                    "type": "YOUTUBE",
+                    "title": "SWIFTUI: ANIMAÇÕES NO iOS - COMO COMEÇAR ",
+                    "link": "https://www.youtube.com/watch?v=k6zgW9yIPCE"
+                }
+            ]
         }
       ]
     },
